@@ -1,0 +1,6 @@
+KMeans_Cluster,Distance_km,Weight_MT,Fuel_Price_Index,Geopolitical_Risk_Score,Carrier_Reliability_Score,Lead_Time_Days,Disruption_Rate_%
+0,7132.81,305.35,1.98,7.26,0.77,8.38,64.0
+1,10889.69,239.76,2.82,5.66,0.75,43.18,87.0
+2,6675.23,203.09,3.78,7.29,0.77,7.95,65.0
+3,7353.29,372.92,3.18,2.55,0.71,8.56,48.0
+4,6765.93,117.71,2.55,2.73,0.76,7.51,45.0
